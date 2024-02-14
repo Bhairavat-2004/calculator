@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SimpleCalculator {
+public class calculator {
     static int add(int a, int b) {
         return a + b;
     }
